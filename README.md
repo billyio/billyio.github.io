@@ -1,6 +1,6 @@
-[profile](billyio.github.io)
+[profile](https://billyio.github.io)
 
-[blog](billyio.github.io/blog)
+[blog](https://billyio.github.io/blog)
 
 ## Welcome to GitHub Pages
 
