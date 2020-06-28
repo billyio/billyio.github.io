@@ -1,8 +1,6 @@
-[profile]
+[profile](billyio.github.io)
 
 [blog](billyio.github.io/blog)
-
-日本語
 
 ## Welcome to GitHub Pages
 
