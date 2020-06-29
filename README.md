@@ -1,5 +1,6 @@
 ## Bio
 Software Engineer in Tokyo
+
 Interests: Computer Vision / Fashion / Human Recognition
 
 ## Career
