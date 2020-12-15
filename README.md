@@ -1,14 +1,14 @@
-### Bio
+## Bio
 Software Engineer in Tokyo
 
 Interests: Computer Vision / Deep Learning
 
-### Career
-##2019/11- current 
+## Career
+### 2019/11- current 
 Research and Development Enginner @
 
 
-### Skills
+## Skills
 Language
 - python 
 - Javascript(Vue.js, Node.js)
@@ -20,5 +20,5 @@ Software Service
 - AWS
 - Firebase
 
-### Links
+## Links
 [blog](https://billyio.github.io/blog)
