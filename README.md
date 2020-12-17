@@ -1,11 +1,11 @@
 ## Bio
 Software Engineer in Tokyo
 
-Interests: Computer Vision / Deep Learning
+Interests: Large-scale Web Development / Mlops / Computer Vision / Deep Learning
 
 ## Career
 ### 2019/11- current 
-Research and Development Enginner @
+Temporary Software Enginner @Pixie Dust Technologies, Inc.
 
 
 ## Skills
@@ -14,7 +14,7 @@ Language
 - Javascript(Vue.js, Node.js)
 
 Library
-- Pytorch/Tensorflow/Opencv
+- Pytorch / Tensorflow / Opencv
 
 Software Service
 - AWS
@@ -22,3 +22,4 @@ Software Service
 
 ## Links
 [blog](https://billyio.github.io/blog)
+[projects](https://billyio.github.io/projects)
