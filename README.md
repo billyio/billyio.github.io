@@ -21,5 +21,5 @@ Software Service
 - Firebase
 
 ## Links
-[blog](https://billyio.github.io/blog)
-[projects](https://billyio.github.io/projects)
+- [blog](https://billyio.github.io/blog)
+- [projects](https://billyio.github.io/projects)
