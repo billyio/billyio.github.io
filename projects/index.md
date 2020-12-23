@@ -21,3 +21,4 @@ Software Technologies
 
 Releases
 - https://pixiedusttech.com/news_20201016/
+- [deepwear_seahorse_image](https://pixiedusttech.com/wp-content/uploads/2020/10/DW%E3%83%AD%E3%82%B4%E5%85%A5%E3%82%8AT%E3%82%B7%E3%83%A3%E3%83%84.jpg.png)
