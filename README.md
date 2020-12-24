@@ -12,7 +12,7 @@ Temporary Software Enginner @Pixie Dust Technologies, Inc.
 ## Skills
 Language
 - Python 
-- Javascript(Vue.js, Node.js)
+- Javascript(Vue.js, Nuxt.js, Node.js)
 
 Library
 - Pytorch/Tensorflow/OpenCV/Numpy
