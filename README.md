@@ -3,26 +3,30 @@ Software Engineer in Tokyo
 
 Interests: Large-scale Web Development / MLops / Computer Vision / Deep Learning
 
+## Links
+- [Blog(Japanese)](https://billyio.github.io/blog)
+- [Projects](https://billyio.github.io/projects)
+
+## Education
+### Keio University B.A in Business and Commerce
+2015/4-2019/3 
+
+
 ## Career
-2019/11- current
-
-Temporary Software Enginner @Pixie Dust Technologies, Inc.
-
+### Pixie Dust Technologies, Inc.  
+**Temporary Software Enginner** 2019/11- current
 
 ## Skills
 Language
 - Python 
 - Javascript(Vue.js, Nuxt.js, Node.js)
+- SQL
 
 Library
 - Pytorch/Tensorflow/OpenCV/Numpy
 
-Software Service
+Software Services, Tools
 - AWS(EC2,S3,ECR,Sagemaker)
 - Firebase
 - Docker
 - Github/Gitlab
-
-## Links
-- [blog](https://billyio.github.io/blog)
-- [projects](https://billyio.github.io/projects)
