@@ -1,5 +1,5 @@
 ## DeepWear
-Temporary Software Engineer @Pixie Dust Technologies, Inc
+### Temporary Software Engineer @Pixie Dust Technologies, Inc
 - Delevoped new design generation system with deep learning technologies
 - Implemented image generation and image editing technologies on system
 - Researched state-of-the-art wide ranged computer vision task and built various prototypes
