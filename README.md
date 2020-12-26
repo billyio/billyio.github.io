@@ -14,7 +14,7 @@ Interests: Large-scale Web Development / MLops / Computer Vision / Deep Learning
 
 ## Career
 ### Pixie Dust Technologies, Inc.  
-**Temporary Software Enginner** 2019/11- current
+**Temporary Software Enginner** 2019/11-**present**
 
 ## Skills
 Language
