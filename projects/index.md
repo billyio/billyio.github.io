@@ -1,5 +1,5 @@
 ### DeepWear
-Temporary Software Engineer @Pixie Dust Technologies, Inc 2019/11-present
+Temporary Software Engineer @Pixie Dust Technologies, Inc 【2019/11-present】
 - Delevoped new design generation system with python with deep learning frameworks
 - Implemented image generation and image editing technologies on system
 - Researched state-of-the-art wide ranged computer vision task and built various prototypes
@@ -28,6 +28,7 @@ Releases
 ## Self Employment
 
 ### Owned Media related to education
+Software Engineer @Startup Company 【2018/11-2019/6】
 - Designed and developed CMS(Content Management System) with contentful + Firebase + Nuxt.js
 - Implemented user management system, business matching system, image uploader, email sending, social account authentication, and etc
 - Worked closely with the product manager and web editor, refining and expediting the process of design-to-development
