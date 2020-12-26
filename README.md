@@ -12,9 +12,11 @@ Interests: Large-scale Web Development / MLops / Computer Vision / Deep Learning
 2015/4-2019/3 
 
 
-## Career
+## Work Experience
+Details at [Projects](https://billyio.github.io/projects)
+
 ### Pixie Dust Technologies, Inc.  
-**Temporary Software Enginner** 2019/11-**present**
+**Temporary Software Enginner** 2019/11-present
 
 ## Skills
 Language
