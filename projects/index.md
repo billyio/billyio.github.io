@@ -1,9 +1,10 @@
-## DeepWear
-### Temporary Software Engineer @Pixie Dust Technologies, Inc
-- Delevoped new design generation system with deep learning technologies
+### DeepWear
+Temporary Software Engineer @Pixie Dust Technologies, Inc 2019/11-present
+- Delevoped new design generation system with python with deep learning frameworks
 - Implemented image generation and image editing technologies on system
 - Researched state-of-the-art wide ranged computer vision task and built various prototypes
 - Developed web scraping codes and pre/post processing codes to create image datasets
+- Worked with the lead engineer/product manager and machine learning engineer
 
 Deep Learning Technologies
 - Generative Adversarial Networks
@@ -21,4 +22,16 @@ Software Technologies
 
 Releases
 - https://pixiedusttech.com/news_20201016/
-![deepwear_seahorse_image](https://pixiedusttech.com/wp-content/uploads/2020/10/DW%E3%83%AD%E3%82%B4%E5%85%A5%E3%82%8AT%E3%82%B7%E3%83%A3%E3%83%84.jpg.png)
+
+---------------------------------------------------------------------------------------------------------------------
+
+## Self Employment
+
+### Owned Media related to education
+- Designed and developed CMS(Content Management System) with contentful + Firebase + Nuxt.js
+- Implemented user management system, business matching system, image uploader, email sending, social account authentication, and etc
+- Worked closely with the product manager and web editor, refining and expediting the process of design-to-development
+
+Software Technologies
+- Firebase(Cloud Function, Realtime Database, Cloud Storage, Firebase Hosting, Firebase Authentication)
+- [Contentful](https://www.contentful.com/)
