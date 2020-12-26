@@ -4,7 +4,7 @@ Temporary Software Engineer @Pixie Dust Technologies, Inc 【2019/11-present】
 - Implemented image generation and image editing technologies on system
 - Researched state-of-the-art wide ranged computer vision task and built various prototypes
 - Developed web scraping codes and pre/post processing codes to create image datasets
-- Worked with the lead engineer/product manager and machine learning engineer
+- Worked with the lead engineer and product manager, and machine learning engineer
 
 Deep Learning Technologies
 - Generative Adversarial Networks
@@ -30,8 +30,8 @@ Releases
 ### Owned Media related to education
 Software Engineer @Startup Company 【2018/11-2019/6】
 - Designed and developed CMS(Content Management System) with contentful + Firebase + Nuxt.js
-- Implemented user management system, business matching system, image uploader, email sending, social account authentication, and etc
-- Worked closely with the product manager and web editor, refining and expediting the process of design-to-development
+- Implemented user management system, business matching system, image uploader, email sending, social account authentication
+- Developed all alone and worked closely with the product manager and web editor, refining and expediting the process of design-to-development
 
 Software Technologies
 - Firebase(Cloud Function, Realtime Database, Cloud Storage, Firebase Hosting, Firebase Authentication)
