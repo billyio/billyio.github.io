@@ -1,7 +1,9 @@
 ## Bio
-Software Engineer in Tokyo
+Software Engineer in Tokyo. I have 2 years or more work experience of software engineer.
+As a hobby I read academic papers and, do enjoy computer science coursework, Math, English and music.
 
-Interests: Large-scale Web Development / MLops / Computer Vision / Deep Learning
+Interests: Large-scale Web Development / MLops / Deep Learning
+
 
 ## Links
 - [Blog(Japanese)](https://billyio.github.io/blog)
