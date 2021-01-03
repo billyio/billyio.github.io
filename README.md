@@ -34,3 +34,6 @@ Software Services, Tools
 - Firebase
 - Docker
 - Github/Gitlab
+
+## Certificates
+- [edX: Data Structures Fundamentals, UC San Diego](https://courses.edx.org/certificates/4faabb2a5b2f4171b30789c502270f1a) issued 2021/1
