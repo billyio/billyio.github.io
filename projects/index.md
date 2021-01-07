@@ -5,7 +5,7 @@
 ## [Projects](#Top)
 ### DeepWear
 Temporary Software Engineer @Pixie Dust Technologies, Inc 【2019/11-present】
-- Delevoped new design generation system with python with deep learning frameworks
+- Delevoped new design generation system in python with deep learning frameworks
 - Implemented image generation and image editing technologies on system
 - Researched state-of-the-art wide ranged computer vision task and built various prototypes
 - Developed web scraping codes and pre/post processing codes to create image datasets
@@ -49,3 +49,4 @@ Software Technologies
 
 
 ## [Personal Projects](#Top)
+coming soon
