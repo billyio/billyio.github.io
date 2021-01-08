@@ -35,7 +35,7 @@ Releases
 ---------------------------------------------------------------------------------------------------------------------
 
 ### Owned Media related to education
-Self-employed Software Engineer @Startup Company 【2018/11-2019/6】
+Self-employed Software Engineer @Startup Company 【2018/11-2019/3】
 - Designed and developed CMS(Content Management System) with contentful + Firebase + Nuxt.js
 - Implemented user management system, image uploader, email sending, social account authentication, etc
 - Developed all alone and worked closely with the product manager and web editor, refining and expediting the process of design-to-development
