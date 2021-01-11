@@ -5,7 +5,7 @@ As a hobby I read academic papers and, do enjoy computer science coursework, Mat
 Interests: Large-scale Web Development / MLops / Deep Learning
 
 ## Recent Activities
-- 2021/1/3 [Accomplished online course edX: Data Structures Fundamentals, UC San Diego](https://courses.edx.org/certificates/4faabb2a5b2f4171b30789c502270f1a)
+- 2021/01/03 [Accomplished online course edX: Data Structures Fundamentals, UC San Diego](https://courses.edx.org/certificates/4faabb2a5b2f4171b30789c502270f1a)
 - 2020/12/23 [Blog 2020年秋頃に読んだ本まとめ](https://billyio.github.io/blog/2020%E5%B9%B4%E7%A7%8B%E9%A0%83%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC%E3%81%BE%E3%81%A8%E3%82%81)
 
 ## Links
