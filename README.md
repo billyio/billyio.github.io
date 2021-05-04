@@ -5,8 +5,9 @@ As a hobby I read academic papers and, do enjoy computer science coursework, Mat
 Interests: Large-scale Web Development, MLops, Deep Learning
 
 ## Recent Activities
+- 2021/05/04 [2021年1月-5月頭までの勉強](https://billyio.github.io/blog/2021年1月-5月頭までの勉強)
 - 2021/01/03 [Accomplished online course edX: Data Structures Fundamentals, UC San Diego](https://courses.edx.org/certificates/4faabb2a5b2f4171b30789c502270f1a)
-- 2020/12/23 [Blog 2020年秋頃に読んだ本まとめ](https://billyio.github.io/blog/2020%E5%B9%B4%E7%A7%8B%E9%A0%83%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC%E3%81%BE%E3%81%A8%E3%82%81)
+- 2020/12/23 [Blog 2020年秋頃に読んだ本まとめ](https://billyio.github.io/blog/2020年秋頃に読んだ本まとめ)
 
 ## Links
 - [Blog(Japanese)](https://billyio.github.io/blog)
@@ -19,11 +20,8 @@ Interests: Large-scale Web Development, MLops, Deep Learning
 Details at [Projects](https://billyio.github.io/projects)
 
 ### Pixie Dust Technologies, Inc.
-Temporary Software Enginner 2019/11-present
-- Researched and Developed cutting-edge computer vision algorithms in Python with deep learning frameworks to build image generation and image editing Web application
-- Built prototypes and implemented super resolution, background removal and image processing algorithms which meet the set requirements
-- Knowledge of wide ranged computer vision tasks such as image recognition, image detection, semantic segmentation, GAN, style transfer, image matting, etc
-- Developed web scraping and preprocessing scripts from scratch to build image datasets
+Software Enginner | Temporary Staff 2019/11-present
+- Researched and Developed computer vision algorithms to build image generation and image editing Web application
 
 
 ## Skills
