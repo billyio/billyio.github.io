@@ -3,11 +3,13 @@
 * [Personal Projects](#Personal-Projects)
 
 ## [Projects](#Top)
-### R&D  
+### AMS  
 Software Engineer | Temporary Staff @Pixie Dust Technologies, Inc 【2021/04-present】
 - Computational Fluid Dynamics(CFD) analysis of temperature and air velocity distribution in an indoor room with air conditioning
 - Visualizated mesh data and analysis results using Paraview and matplotlib
 - Optimization of boundary conditions, relaxation coefficients, and various parameters using Optuna
+- Improved existing analytical capabilities by developing and improving best practices, automating processes, and streamlining workflows
+- Maintained working knowledge of relevant computational fluids research in the building mechanical field with proactive research
 
 Programming Languages
 - Python
