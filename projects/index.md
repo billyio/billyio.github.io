@@ -3,8 +3,24 @@
 * [Personal Projects](#Personal-Projects)
 
 ## [Projects](#Top)
+### R&D  
+Software Engineer | Temporary Staff @Pixie Dust Technologies, Inc 【2021/04-present】
+- Computational Fluid Dynamics(CFD) analysis of temperature and air velocity distribution in an indoor room with air conditioning
+- Visualizated mesh data and analysis results using Paraview and matplotlib
+- Optimization of boundary conditions, relaxation coefficients, and various parameters using Optuna
+
+Programming Languages
+- Python
+- C
+
+Software Technologies
+- AWS(EC2, S3)
+- OpenFOAM, Paraview
+- Optuna
+- GitLab
+
 ### DeepWear
-Temporary Software Engineer @Pixie Dust Technologies, Inc 【2019/11-present】
+Software Engineer | Temporary Staff @Pixie Dust Technologies, Inc 【2019/11-present】
 - Delevoped new design generation system in python with deep learning frameworks
 - Implemented image generation and image editing technologies on system
 - Researched state-of-the-art wide ranged computer vision task and built various prototypes
@@ -16,7 +32,7 @@ Deep Learning Technologies
 - Style Transfer
 - Super Resolution
 - Image Editing, Image Inpainting, Alpha Matting
-- Semantic Segmentation
+- Object Detection, Semantic Segmentation
 - Face, Human, Body Recognition
 - etc
 
