@@ -1,35 +1,35 @@
 ## Bio
-Software Engineer in Tokyo. I have 2 years or more work experience of software engineer.
-As a hobby I read academic papers and, do enjoy computer science coursework, Math, English and music.
+Software Engineer in Tokyo. I have 3 years work experience of software engineer.
+I love indoor sports climbing, bouldering.
 
-Interests: Large-scale Web Development, MLops, Deep Learning
+Interests: Data Engineering, Machine Learning, Deep Learning
 
 ## Recent Activities
+- 2021/12/28 [自作正誤表、信号・データ処理のための行列とベクトル](https://billyio.github.io/blog/自作正誤表、信号・データ処理のための行列とベクトル)
 - 2021/05/04 [2021年1月-5月頭までの勉強](https://billyio.github.io/blog/2021年1月-5月頭までの勉強)
 - 2021/01/03 [Accomplished online course edX: Data Structures Fundamentals, UC San Diego](https://courses.edx.org/certificates/4faabb2a5b2f4171b30789c502270f1a)
 - 2020/12/23 [Blog 2020年秋頃に読んだ本まとめ](https://billyio.github.io/blog/2020年秋頃に読んだ本まとめ)
 
 ## Links
-- [Blog(Japanese)](https://billyio.github.io/blog)
-- [Projects](https://billyio.github.io/projects)
+- [Blog(Japanese)](https://billyio.github.io/blog/)
+- [Projects](https://billyio.github.io/projects/)
 
 ## Education
 ### Keio University B.A in Business and Commerce 2015/4-2019/3 
 
-## Work Experience
-Details at [Projects](https://billyio.github.io/projects)
+## Work Experience 
+#### Software Enginner, Temporary Staff @Pixie Dust Technologies, Inc. 2019/11-present
+- R&D for computer vision, image generation, image editing and image processing
+- Builed Datasets, ETL tools and BI tools
 
-### Pixie Dust Technologies, Inc.
-Software Enginner | Temporary Staff 2019/11-present
-- Researched and Developed computer vision algorithms to build image generation and image editing Web application
-
+[Details](https://billyio.github.io/projects/)
 
 ## Skills
-Language: Python, Javascript(Vue.js, Nuxt.js, Node.js), C#(Unity), HTML/CSS, SQL
+Language: Python, Typescript/Javascript(React,Next,Vue,Nuxt,Node), C/C++, C#(Unity), HTML/CSS, SQL
 
 Library: Pytorch, Tensorflow, OpenCV, Numpy
 
-Software Services, Tools: AWS, Firebase, Docker, Github/Gitlab
+Software Services & Tools: AWS, Firebase, Docker, Github/Gitlab
 
 ## Certificates
 - [edX: Data Structures Fundamentals, UC San Diego](https://courses.edx.org/certificates/4faabb2a5b2f4171b30789c502270f1a) issued 2021/1
