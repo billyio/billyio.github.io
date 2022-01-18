@@ -1,7 +1,3 @@
-## Top
-* [Projects at work](#Projects)
-* [Personal Projects](#Personal-Projects)
-
 ## [Projects](#Top)
 ### XXX R&D
 Software Engineer | Temporary Staff @Pixie Dust Technologies, Inc 【2021/04-present】
@@ -14,10 +10,11 @@ Software Engineer | Temporary Staff @Pixie Dust Technologies, Inc 【2021/04-pre
 Programming Languages
 - Python
 - Shell Script
+- React/Typescript
 - (C++)
 
 Software Technologies
-- AWS(EC2, S3)
+- AWS(EC2, S3, Lambda, API Gateway, Iot Core, Kinesis Data Stream/Firehose)
 - OpenFOAM, Paraview
 - Optuna
 - GitLab
