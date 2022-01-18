@@ -5,14 +5,14 @@ I love indoor sports climbing, bouldering.
 Interests: Data Engineering, Machine Learning, Deep Learning
 
 ## Recent Activities
-- 2021/12/28 [自作正誤表、信号・データ処理のための行列とベクトル](https://billyio.github.io/blog/自作正誤表、信号・データ処理のための行列とベクトル.md)
-- 2021/05/04 [2021年1月-5月頭までの勉強](https://billyio.github.io/blog/2021年1月-5月頭までの勉強.md)
+- 2021/12/28 [自作正誤表、信号・データ処理のための行列とベクトル](https://github.com/billyio/billyio.github.io/blob/master/blog/自作正誤表、信号・データ処理のための行列とベクトル.md)
+- 2021/05/04 [2021年1月-5月頭までの勉強](https://github.com/billyio/billyio.github.io/blob/master/blog/2021年1月-5月頭までの勉強.md)
 - 2021/01/03 [Accomplished online course edX: Data Structures Fundamentals, UC San Diego](https://courses.edx.org/certificates/4faabb2a5b2f4171b30789c502270f1a)
-- 2020/12/23 [Blog 2020年秋頃に読んだ本まとめ](https://billyio.github.io/blog/2020年秋頃に読んだ本まとめ.md)
+- 2020/12/23 [Blog 2020年秋頃に読んだ本まとめ](https://github.com/billyio/billyio.github.io/blob/master/blog/2020年秋頃に読んだ本まとめ.md)
 
 ## Links
-- [Blog(Japanese)](https://billyio.github.io/blog/)
-- [Projects](https://billyio.github.io/projects.md)
+- [Blog(Japanese)](https://github.com/billyio/billyio.github.io/blob/master/blog/)
+- [Projects](https://github.com/billyio/billyio.github.io/blob/master/projects.md)
 
 ## Education
 ### Keio University B.A in Business and Commerce 2015/4-2019/3 
@@ -22,7 +22,7 @@ Interests: Data Engineering, Machine Learning, Deep Learning
 - R&D for computer vision, image generation, image editing and image processing
 - Builed Datasets, ETL tools and BI tools
 
-[Details](https://billyio.github.io/projects.md)
+[Details](https://github.com/billyio/billyio.github.io/blob/master/projects.md)
 
 ## Skills
 Language: Python, Typescript/Javascript(React,Next,Vue,Nuxt,Node), C/C++, C#(Unity), HTML/CSS, SQL
