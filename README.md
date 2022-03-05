@@ -25,7 +25,7 @@ Interests: Data Engineering, Machine Learning, Deep Learning
 [Details](https://github.com/billyio/billyio.github.io/blob/master/projects.md)
 
 ## Skills
-Language: Python, Typescript/Javascript(React,Next,Vue,Nuxt,Node), C/C++, C#(Unity), HTML/CSS, SQL
+Language: Python, Typescript/Javascript(React,Vue,Nuxt,Node), C/C++, HTML/CSS, SQL
 
 Library: Pytorch, Tensorflow, OpenCV, Numpy
 
