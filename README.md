@@ -11,6 +11,7 @@ Interests: Data Engineering, Machine Learning, Deep Learning
 - 2020/12/23 [Blog 2020年秋頃に読んだ本まとめ](blog/2020年秋頃に読んだ本まとめ.md)
 
 ## Links
+- [GitHub](https://github.com/billyio)
 - [Blog(Japanese)](blog/)
 - [Projects](projects.md)
 
