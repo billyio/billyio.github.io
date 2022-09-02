@@ -19,18 +19,24 @@ Interests: Data Engineering, Machine Learning, Deep Learning
 ### Keio University B.A in Business and Commerce 2015/4-2019/3 
 
 ## Work Experience 
-#### Software Enginner, Temporary Staff @Pixie Dust Technologies, Inc. 2019/11-present
-- R&D for computer vision, image generation, image editing and image processing
-- Builed Datasets, ETL tools and BI tools
+
+#### Data Enginner, Temporary @Yoii, Inc. 2022/08-present
+- Build data pipeline and DWH
+
+#### Software Enginner, Temporary @Pixie Dust Technologies, Inc. 2019/11-2022/07
+- R&D for computer vision and image processing
+- R&D for CAE/CFD
 
 [Details](projects.md)
 
 ## Skills
-Language: Python, Typescript/Javascript(React,Vue,Nuxt,Node), C/C++, HTML/CSS, SQL
+Language: Python, SQL
 
-Library: Pytorch, Tensorflow, OpenCV, Numpy
+Library: PySpark, Pytorch, OpenCV, Numpy
 
-Software Services & Tools: AWS, Firebase, Docker, Github/Gitlab
+AWS: Glue, Step Function, Athena, Lambda, Redshift, Kinesis, IoT core, EC2, S3, IAM
+
+Tools: Notion, Slack, Docker, GitHub/GitLab
 
 ## Certificates
 - [edX: Data Structures Fundamentals, UC San Diego](https://courses.edx.org/certificates/4faabb2a5b2f4171b30789c502270f1a) issued 2021/1
