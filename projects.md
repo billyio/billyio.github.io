@@ -1,20 +1,23 @@
 ## [Projects](#Top)
 
 ### Yoii Fuel
-Data Engineer, Temporary @Yoii, Inc 【2022/04-present】
-- Managed historical transaction and accounting data
-- Built data pipeline and data ware house
+Data Engineer, Temporary @Yoii, Inc 【2022/08-present】
+- Managed historical transaction and accounting data for credit examination
+- Implemented data ware house using Snowflake
+- Implemented CI/CD to data pipeline using GitHub Actions
 
 Programming Languages
 - Python, SQL
 
 Software Technologies
-- AWS(Glue, Step Function, Athena, Lambda, Redshift)
+- Snowflake
+- dbt
+- AWS(Glue, Step Function, Athena, S3, Lambda, Redshift)
+- GitHub Actions
 - Streamlit
-- GitHub
 
 ### KOTOWARI Analysis
-Software Engineer, Temporary @Pixie Dust Technologies, Inc 【2022/04-2022/07】
+Software Engineer(R&D), Temporary @Pixie Dust Technologies, Inc 【2022/04-2022/07】
 - R&D with real estate company and measured the effectiveness of events by analysing videos
 - Developed heat map analysis using background substruction and object detection
 - Developed attribute analysis using MOT(Multi Object Tracking)
@@ -33,7 +36,7 @@ Releases
 
 
 ### XXX R&D
-Software Engineer, Temporary @Pixie Dust Technologies, Inc 【2021/04-2022/03】
+Software Engineer(R&D), Temporary @Pixie Dust Technologies, Inc 【2021/04-2022/03】
 - Computational Fluid Dynamics(CFD) analysis of temperature and air velocity distribution in an indoor room with air conditioning
 - Visualizated mesh data and analysis results using Paraview and matplotlib
 - Optimized various parameters using Optuna
@@ -53,7 +56,7 @@ Software Technologies
 - GitLab
 
 ### DeepWear
-Software Engineer, Temporary @Pixie Dust Technologies, Inc 【2019/11-2021/03】
+Software Engineer(R&D), Temporary @Pixie Dust Technologies, Inc 【2019/11-2021/03】
 - Delevoped new design generation system in python with deep learning frameworks
 - Implemented image generation and image editing technologies on system
 - Researched state-of-the-art wide ranged computer vision task and built various prototypes

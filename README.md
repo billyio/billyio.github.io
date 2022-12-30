@@ -1,6 +1,8 @@
 ## Bio
-Software Engineer in Tokyo. I have 3 years work experience of software engineer.
-I love indoor sports climbing, bouldering.
+Data Engineer in Tokyo  
+I have 3+ years work experience of software engineer  
+1 year as data engineer, 2+ years as computer vision/image processing engineer  
+I love indoor sports climbing, bouldering
 
 Interests: Data Engineering, Machine Learning, Deep Learning
 
@@ -23,7 +25,7 @@ Interests: Data Engineering, Machine Learning, Deep Learning
 #### Data Enginner, Temporary @Yoii, Inc. 2022/08-present
 - Build data pipeline and DWH
 
-#### Software Enginner, Temporary @Pixie Dust Technologies, Inc. 2019/11-2022/07
+#### Software Enginner(R&D), Temporary @Pixie Dust Technologies, Inc. 2019/11-2022/07
 - R&D for computer vision and image processing
 - R&D for CAE/CFD
 
