@@ -1,9 +1,9 @@
 ## [Projects](#Top)
 
 ### Yoii Fuel
-Data Engineer, Temporary @Yoii, Inc 【2022/08-present】
+Data Engineer, Temporary @Yoii, Inc 【2022/08-2023/07】
 - Managed historical transaction and accounting data for credit examination
-- Implemented data ware house using Snowflake
+- Implemented data warehouse using Snowflake
 - Implemented CI/CD to data pipeline using GitHub Actions
 
 Programming Languages
@@ -13,6 +13,8 @@ Software Technologies
 - Snowflake
 - dbt
 - AWS(Glue, Step Function, Athena, S3, Lambda, Redshift)
+- Fivetran
+- Metabase
 - GitHub Actions
 - Streamlit
 
