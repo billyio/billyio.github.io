@@ -1,7 +1,7 @@
 ## Bio
 Data Engineer in Tokyo  
-I have 3+ years work experience of software engineer  
-1 year as data engineer, 2+ years as computer vision/image processing engineer  
+I have 4+ years work experience of software engineer  
+1+ year as data engineer, 2+ years as computer vision/image processing engineer  
 I love indoor sports climbing, bouldering
 
 Interests: Data Engineering, Machine Learning, Deep Learning
@@ -32,7 +32,7 @@ Interests: Data Engineering, Machine Learning, Deep Learning
 [Details](projects.md)
 
 ## Skills
-Language: Python, SQL
+Language: Python, SQL, Rust
 
 Library: PySpark, Pytorch, OpenCV, Numpy
 
