@@ -13,7 +13,6 @@ Interests: Data Engineering, Machine Learning, Deep Learning
 - 2020/12/23 [Blog 2020年秋頃に読んだ本まとめ](blog/2020年秋頃に読んだ本まとめ.md)
 
 ## Links
-- [GitHub](https://github.com/billyio)
 - [Blog(Japanese)](blog/)
 - [Projects](projects.md)
 
@@ -22,7 +21,7 @@ Interests: Data Engineering, Machine Learning, Deep Learning
 
 ## Work Experience 
 
-#### Data Enginner, Temporary @Yoii, Inc. 2022/08-present
+#### Data Enginner, Temporary @Yoii, Inc. 2022/08-2024/04
 - Build data pipeline and DWH
 
 #### Software Enginner(R&D), Temporary @Pixie Dust Technologies, Inc. 2019/11-2022/07
