@@ -1,43 +1,59 @@
-## [Projects](#Top)
+# Resume
+-  [Working Experience](#Working-Experience)
+-  [Self-Development](#Self-Development)
+
+### Working Experience
 
 ### Yoii Fuel
-Data Engineer, Temporary @Yoii, Inc 【2022/08-2023/07】
+Data Engineer, Temporary @Yoii, Inc 【2022/08-2024/04】
 - Managed historical transaction and accounting data for credit examination
-- Implemented data warehouse using Snowflake
+- Developed and maintained data pipeline and data warehouse using dbt, Fivetran and Snowflake
+    - Implemented Snowflake
+- Developed and maintained BI dashboards
 - Implemented CI/CD to data pipeline using GitHub Actions
+- Developed and Maintained data pipeline using PySpark, AWS Glue and Step Function
 
-Programming Languages
-- Python, SQL
+Programming Languages: Python, SQL, Shell Script
 
 Software Technologies
-- Snowflake
-- dbt
-- AWS(Glue, Step Function, Athena, S3, Lambda, Redshift)
-- Fivetran
-- Metabase
-- GitHub Actions
-- Streamlit
+- DWH: Snowflake
+- ELT/ETL: dbt, Fivetran, AWS Glue, AWS Step Function
+- BI: Metabase, AWS QuickSight
+- Workflow Orchestration: Prefect, AWS Step Function
+- AWS: Aurora, Glue, Step Function, Athena, S3, IAM, Lambda, QuickSight
+- CI/CD: GitHub Actions
+- IaC: Terraform
+
+Team Members:
+CTO, Lead Engineer, Data Scientist x2, Data Analyst, Data Engineer x2(me)
+
+---
 
 ### KOTOWARI Analysis
 Software Engineer(R&D), Temporary @Pixie Dust Technologies, Inc 【2022/04-2022/07】
-- R&D with real estate company and measured the effectiveness of events by analysing videos
-- Developed heat map analysis using background substruction and object detection
-- Developed attribute analysis using MOT(Multi Object Tracking)
+- R&D with real estate company and analysis of people flow data
+- Developed heat map analysis using background substruction, MOT(Multi Object Tracking) and object detection
+- Developed attribute(age/gender) analysis
 - Visualizated data and analysis results using pandas and matplotlib
 
-Programming Languages
-- Python
+Programming Languages: Python
+
+Library: OpenCV
 
 Software Technologies
 - AWS(EC2, S3, Kinesis Video Stream)
 - GitLab
 
+Team Members:
+PM, Lead Engineer, ML Engineer(me)
+
 Releases
 - [東急プラザ渋谷「１１１-ICHIICHIICHI-」にて実証実験
 ～NFT（非代替性トークン）配布および空間のDX促進による新たな体験価値創造～](https://pixiedusttech.com/news_20220311/)
 
+---
 
-### XXX R&D
+### R&D of CFD
 Software Engineer(R&D), Temporary @Pixie Dust Technologies, Inc 【2021/04-2022/03】
 - Computational Fluid Dynamics(CFD) analysis of temperature and air velocity distribution in an indoor room with air conditioning
 - Visualizated mesh data and analysis results using Paraview and matplotlib
@@ -57,6 +73,12 @@ Software Technologies
 - Optuna
 - GitLab
 
+Team Members:
+PM x2, Software ENnineer(me), Hardware Engineer x2
+
+---
+
+
 ### DeepWear
 Software Engineer(R&D), Temporary @Pixie Dust Technologies, Inc 【2019/11-2021/03】
 - Delevoped new design generation system in python with deep learning frameworks
@@ -74,32 +96,24 @@ Deep Learning Technologies
 - Face, Human, Body Recognition
 - etc
 
-Programming Languages
-- Python(Pytorch, Tensorflow1.X, OpenCV, Numpy)
+Programming Languages: Python
+
+Library: Pytorch, Tensorflow1.X, OpenCV, Numpy
 
 Software Technologies
 - AWS(EC2, S3, ECR, Sagemaker)
 - Docker
 - Github, Gitlab
 
+Team Members:
+PM, Biz, ML Engineer x2(me)
+
 Releases
 - [ファンエンゲージメント・デジタルマーケティング事業等により 球団・球場運営支援を行う三井物産と、AIによるデザイン生成技術を活用したスポーツグッズ販売事業の実証実験を開始
 ～第一弾として、プロバスケットBリーグ シーホース三河株式会社のAIデザインTシャツを販売～](https://pixiedusttech.com/news_20201016/)
 
----------------------------------------------------------------------------------------------------------------------
+---
 
 
-## [Personal Projects](#Top)
+### Self-Development
 coming soon
-
-## template
-
-### XXX 
-,  @ 【202X/XX-202X/XX】
-- 
-
-Programming Languages
-- 
-
-Software Technologies
-- 
