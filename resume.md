@@ -1,6 +1,10 @@
 # Resume
--  [Work Experience](#work-experience)
--  [Self-Development](#self-development)
+- [Work Experience](#work-experience)
+- [Education](#education)
+- [Self-Development](#self-development)
+- [Skills](#skills)
+- [Certificates](#certificates)
+
 
 ## Work Experience
 
@@ -114,6 +118,10 @@ Releases
 
 ---
 
+## Education
+Keio University B.A in Business and Commerce 2015/4-2019/3 
+
+---
 
 ## Self-Development
 ### Data Science/Data Engineering Jobs Website
@@ -127,3 +135,20 @@ Software Technologies
 - Cloudflare Pages
 - GitHub Actions
 - Notion API
+
+---
+
+## Skills
+Language: Python, SQL, Rust
+
+Library: PySpark, Pytorch, OpenCV, Numpy
+
+AWS: Glue, Step Function, Athena, Lambda, Redshift, Kinesis, IoT core, EC2, S3, IAM
+
+Others: Notion, Slack, Docker, GitHub/GitLab
+
+---
+
+## Certificates
+- [edX: Data Structures Fundamentals, UC San Diego](https://courses.edx.org/certificates/4faabb2a5b2f4171b30789c502270f1a) issued 2021/1
+- [Coursera: Algorithms, Stanford University](https://coursera.org/share/11489a11d46cacb2a294cf3d5c991cf6) issued 2021/3
