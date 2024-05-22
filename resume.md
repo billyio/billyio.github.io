@@ -1,8 +1,8 @@
 # Resume
--  [Working Experience](#Working-Experience)
+-  [Work Experience](#Work-Experience)
 -  [Self-Development](#Self-Development)
 
-## Working Experience
+## Work Experience
 
 ### Yoii Fuel
 Data Engineer, Temporary @Yoii, Inc 【2022/08-2024/04】
