@@ -4,7 +4,19 @@ I have 4+ years work experience of software engineer
 1+ year as data engineer, 2+ years as computer vision/image processing engineer  
 I love indoor sports climbing, bouldering
 
-Interests: Data Engineering, Machine Learning, Deep Learning
+Interests: 
+- Data Engineering
+- Machine Learning/Deep Learning
+
+Education:
+- Keio University B.A in Business and Commerce 2019/3
+
+Work Experience:
+- Data Engineer, Temporary @Yoii, Inc. 2022/08-2024/04
+    - Build data pipeline and DWH
+- Software Engineer(R&D), Temporary @Pixie Dust Technologies, Inc. 2019/11-2022/07
+    - R&D for computer vision and image processing
+    - R&D for CAE/CFD
 
 ## Recent Activities
 - 2021/12/28 [自作正誤表、信号・データ処理のための行列とベクトル](/blog/自作正誤表、信号・データ処理のための行列とベクトル.md)
@@ -13,32 +25,6 @@ Interests: Data Engineering, Machine Learning, Deep Learning
 - 2020/12/23 [Blog 2020年秋頃に読んだ本まとめ](blog/2020年秋頃に読んだ本まとめ.md)
 
 ## Links
-- [Blog(Japanese)](blog/)
-- [Resume](resume.md)
-
-## Education
-### Keio University B.A in Business and Commerce 2015/4-2019/3 
-
-## Work Experience 
-
-#### Data Enginner, Temporary @Yoii, Inc. 2022/08-2024/04
-- Build data pipeline and DWH
-
-#### Software Enginner(R&D), Temporary @Pixie Dust Technologies, Inc. 2019/11-2022/07
-- R&D for computer vision and image processing
-- R&D for CAE/CFD
-
-[Details](projects.md)
-
-## Skills
-Language: Python, SQL, Rust
-
-Library: PySpark, Pytorch, OpenCV, Numpy
-
-AWS: Glue, Step Function, Athena, Lambda, Redshift, Kinesis, IoT core, EC2, S3, IAM
-
-Tools: Notion, Slack, Docker, GitHub/GitLab
-
-## Certificates
-- [edX: Data Structures Fundamentals, UC San Diego](https://courses.edx.org/certificates/4faabb2a5b2f4171b30789c502270f1a) issued 2021/1
-- [Coursera: Algorithms, Stanford University](https://coursera.org/share/11489a11d46cacb2a294cf3d5c991cf6) issued 2021/3
+- [Resume(en)](resume.md)
+- [GitHub](https://github.com/billyio)
+- [Blog(ja)](blog/)
