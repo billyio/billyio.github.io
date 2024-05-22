@@ -2,7 +2,7 @@
 -  [Working Experience](#Working-Experience)
 -  [Self-Development](#Self-Development)
 
-### Working Experience
+## Working Experience
 
 ### Yoii Fuel
 Data Engineer, Temporary @Yoii, Inc 【2022/08-2024/04】
@@ -115,5 +115,15 @@ Releases
 ---
 
 
-### Self-Development
-coming soon
+## Self-Development
+### Data Science/Data Engineering Jobs Website
+Url: https://data-career-blueprint.com/
+
+- Scraped jobs listings and extracted job information
+
+Programming Languages: Rust
+
+Software Technologies
+- Cloudflare Pages
+- GitHub Actions
+- Notion API
