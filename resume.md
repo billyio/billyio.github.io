@@ -1,6 +1,6 @@
 # Resume
--  [Work Experience](#Work-Experience)
--  [Self-Development](#Self-Development)
+-  [Work Experience](#work-experience)
+-  [Self-Development](#self-development)
 
 ## Work Experience
 
