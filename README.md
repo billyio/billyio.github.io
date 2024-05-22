@@ -14,7 +14,7 @@ Interests: Data Engineering, Machine Learning, Deep Learning
 
 ## Links
 - [Blog(Japanese)](blog/)
-- [Projects](projects.md)
+- [Resume](resume.md)
 
 ## Education
 ### Keio University B.A in Business and Commerce 2015/4-2019/3 
