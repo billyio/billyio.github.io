@@ -1,22 +1,17 @@
-## Bio
-Data Engineer in Tokyo  
-I have 4+ years work experience of software engineer  
-1+ year as data engineer, 2+ years as computer vision/image processing engineer  
-I love indoor sports climbing, bouldering
+## Brief Biography
+updated: 2025-10-27
 
-Interests: 
-- Data Engineering
-- Machine Learning/Deep Learning
+Data Engineer in Tokyo
+I love indoor sports climbing, bouldering and training
 
-Education:
-- Keio University B.A in Business and Commerce 2019/3
+Interests: Data Engineering
 
 Work Experience:
-- Data Engineer, Temporary @Yoii, Inc. 2022/08-2024/04
-    - Build data pipeline and DWH
-- Software Engineer(R&D), Temporary @Pixie Dust Technologies, Inc. 2019/11-2022/07
-    - R&D for computer vision and image processing
-    - R&D for CAE/CFD
+- 2024-10 ~ Present: Data Engineer, RVSTA, Inc.
+- 2022-08 ~ 2024-04: Data Engineer, Yoii, Inc.
+- 2019-11 ~ 2022-07: Software Engineer(R&D), Pixie Dust Technologies, Inc. 
+
+Education: B.A in Business and Commerce, Keio University, March  2019
 
 ## Recent Activities
 - 2024/06/25 [「2024年Rust Webアプリ開発の現在」のLTをしました](https://findy.connpass.com/event/319829/)
@@ -29,3 +24,4 @@ Work Experience:
 - [Resume(en)](resume.md)
 - [GitHub](https://github.com/billyio)
 - [Blog(ja)](blog/)
+- [Speakerdeck](https://speakerdeck.com/billyio)
