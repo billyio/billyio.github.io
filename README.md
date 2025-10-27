@@ -2,9 +2,9 @@
 updated: 2025-10-27
 
 Data Engineer in Tokyo
-I love indoor sports climbing, bouldering and training
 
 Interests: Data Engineering
+Hobby♡: sports climbing, bouldering and training
 
 Work Experience:
 - 2024-10 ~ Present: Data Engineer, RVSTA, Inc.

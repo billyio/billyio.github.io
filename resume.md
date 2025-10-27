@@ -21,7 +21,9 @@ Tech Stack:
 - DWH: BigQuery
 - ELT/ETL: Dataform, TROCCO
 - BI: Looker Studio, Google Sheets
+
 --- 
+
 ### Data Engineer, Temporary @[Yoii, Inc](https://yoii.jp/)
 Date: 2022-08 ~ 2024-04
 
