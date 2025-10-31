@@ -9,6 +9,7 @@
 ## Work Experience
 ### Data Engineer, Full-time @[RVSTA, Inc](https://www.rvsta.co.jp/)
 Department: Marketing Department
+
 Date: 2024-10 ~ Present
 
 Managed data platform including sales, marketing, and customer data across multiple business units.
@@ -143,10 +144,19 @@ Tech stack:
 ---
 
 ## Skills
-Language: Python, SQL, Rust
+Programming Language: Python, SQL, Rust
+
 Library: PySpark, Pytorch, OpenCV, Numpy
+
 AWS: Glue, Step Function, Athena, Lambda, Redshift, Kinesis, IoT core, EC2, S3, IAM
-Others: Notion, Slack, Docker, GitHub/GitLab
+
+DevOps: Docker, GitHub/GitLab
+
+Communication & Collaboration: Notion, Slack, Microsoft Teams, Google Workspace
+
+Language: Japanese(Native), English(Basic)
+
+
 
 ---
 
