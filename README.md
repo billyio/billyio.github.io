@@ -4,12 +4,14 @@ updated: 2025-10-27
 Data Engineer in Tokyo
 
 Interests: Data Engineering
+
 Hobby♡: sports climbing, bouldering and training
 
 Work Experience:
 - 2024-10 ~ Present: Data Engineer, RVSTA, Inc.
-- 2022-08 ~ 2024-04: Data Engineer, Yoii, Inc.
-- 2019-11 ~ 2022-07: Software Engineer(R&D), Pixie Dust Technologies, Inc. 
+- 2019-07 ~ 2024-10: ML Engineer, RAKUS Partners
+    - 2022-08 ~ 2024-04: Data Engineer, Yoii, Inc.
+    - 2019-11 ~ 2022-07: Software Engineer(R&D), Pixie Dust Technologies, Inc. 
 
 Education: B.A in Business and Commerce, Keio University, March  2019
 
